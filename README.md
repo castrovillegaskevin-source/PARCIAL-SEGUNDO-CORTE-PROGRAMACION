@@ -1,6 +1,6 @@
 # 🏥 VitalHogar Salud - Sistema de Gestión de Planes Médicos
 
-![Logo VitalHogar Salud](logo.png)
+![Logo VitalHogar Salud](logo.png.jpg)
 
 ## 🏢 Identidad Corporativa
 
